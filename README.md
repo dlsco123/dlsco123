@@ -19,8 +19,8 @@
 #### &emsp; ▪ Database
 #### &emsp; <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-#### &emsp; ▪ Cloud
-#### &emsp; <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+#### &emsp; ▪ Server
+#### &emsp; <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 ## 📃 Project
 
 #### &emsp; ▪ Predicting Verdict AI (NLP) 👉 [Link](https://github.com/dlsco123/mtvsDacon)
