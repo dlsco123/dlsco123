@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20INCHAE's%20Github%20&fontSize=50&fontColor=FFFEEE)
+![header](https://capsule-render.vercel.app/api?type=egg&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20INCHAE's%20Github%20&fontSize=50&fontColor=FFFFFF)
 
 ## 👋 Introduction 
  
