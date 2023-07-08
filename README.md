@@ -26,8 +26,9 @@
 #### &emsp; <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 ## 📃 Project
 
+#### &emsp; ▪ Multi-Label Classification 👉 [Link](https://github.com/dlsco123/foodClassification)
 #### &emsp; ▪ Predicting Verdict AI (NLP) 👉 [Link](https://github.com/dlsco123/mtvsDacon)
-#### &emsp; ▪ Integrated Sports Facilities Platform (JAVA SPRING, REACT, Mysql, AI[object dectection, stt, tts, chatbot]) 👉 [Link](https://github.com/GPT5Final)
+#### &emsp; ▪ Integrated Sports Facilities Platform (JAVA SPRING, REACT, AI[object dectection, stt, tts, chatbot]) 👉 [Link](https://github.com/GPT5Final)
 #### &emsp; ▪ Actors' web community (JAVA, BOOTSTRAP, AJAX) 👉 [Link](https://github.com/BestTeam-Multicampus)
 
 ## 📞 Contact
