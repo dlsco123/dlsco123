@@ -29,7 +29,7 @@
 #### &emsp; ▪ Multi-Label Classification 👉 [Link](https://github.com/dlsco123/foodClassification)
 #### &emsp; ▪ Predicting Verdict AI (NLP) 👉 [Link](https://github.com/dlsco123/mtvsDacon)
 #### &emsp; ▪ Integrated Sports Facilities Platform (JAVA SPRING, REACT, AI[object dectection, stt, tts, chatbot]) 👉 [Link](https://github.com/GPT5Final)
-#### &emsp; ▪ Actors' web community (JAVA, BOOTSTRAP, AJAX) 👉 [Link](https://github.com/BestTeam-Multicampus)
+#### &emsp; ▪ Actors' web community (JAVA, BOOTSTRAP, AJAX) 👉[GIT](https://github.com/BestTeam-Multicampus) 👉 [PT](https://docs.google.com/presentation/d/1A3YU2yQLLkBiUbjZMCGluizKZBlYBT8gLcvCDcy1x98/edit?usp=sharing)
 
 ## 📞 Contact
 
