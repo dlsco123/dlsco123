@@ -27,8 +27,8 @@
 
 
 ## 📃 Project
-
-#### &emsp; ▪ 불법현수막탐지시스템 👉[Link](https://github.com/dlsco123/META_Yolo_OCR_ChatGPT_PJT) [Link](https://github.com/dlsco123/classfication_react_flask)
+#### &emsp; ▪ 커플사진생성웹서비스 👉[Domain](https://loveloveshot.com) 👉[FastAPI](https://github.com/dlsco123/love_fastApi)👉[SpringBoot](https://github.com/dlsco123/loveloveshot-spring-boot) 👉[Client](https://github.com/dlsco123/loveloveshot-react)
+#### &emsp; ▪ 불법현수막탐지시스템 👉[Model](https://github.com/dlsco123/META_Yolo_OCR_ChatGPT_PJT) 👉[Web](https://github.com/dlsco123/classfication_react_flask)
 #### &emsp; ▪ Predicting Verdict AI (NLP) 👉[Link](https://github.com/dlsco123/mtvsDacon)
 #### &emsp; ▪ Integrated Sports Facilities Platform (JAVA SPRING, REACT & [object dectection, stt, tts, chatbot]) 👉[GIT](https://github.com/GPT5Final) 👉[PT](https://docs.google.com/presentation/d/1iW-izmkIfeZ2AjiymHdlrmzPgsFcYfFY3bbKlfJO6mo/edit?usp=sharing)
 #### &emsp; ▪ Actors' web community (JAVA, BOOTSTRAP, AJAX) 👉[GIT](https://github.com/BestTeam-Multicampus) 👉[PT](https://docs.google.com/presentation/d/1A3YU2yQLLkBiUbjZMCGluizKZBlYBT8gLcvCDcy1x98/edit?usp=sharing)
