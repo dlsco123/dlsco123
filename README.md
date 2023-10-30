@@ -29,7 +29,7 @@
 
 ## 📃 Project
 
-#### &emsp; ▪ Multi-Label Classification 👉[Link](https://github.com/dlsco123/foodClassification)
+#### &emsp; ▪ 불법현수막탐지시스 👉[Link](https://github.com/dlsco123/META_Yolo_OCR_ChatGPT_PJT)(https://github.com/dlsco123/classfication_react_flask)
 #### &emsp; ▪ Predicting Verdict AI (NLP) 👉[Link](https://github.com/dlsco123/mtvsDacon)
 #### &emsp; ▪ Integrated Sports Facilities Platform (JAVA SPRING, REACT & [object dectection, stt, tts, chatbot]) 👉[GIT](https://github.com/GPT5Final) 👉[PT](https://docs.google.com/presentation/d/1iW-izmkIfeZ2AjiymHdlrmzPgsFcYfFY3bbKlfJO6mo/edit?usp=sharing)
 #### &emsp; ▪ Actors' web community (JAVA, BOOTSTRAP, AJAX) 👉[GIT](https://github.com/BestTeam-Multicampus) 👉[PT](https://docs.google.com/presentation/d/1A3YU2yQLLkBiUbjZMCGluizKZBlYBT8gLcvCDcy1x98/edit?usp=sharing)
@@ -40,5 +40,6 @@
 #### &emsp;▪ Phone Number 👉 +82) 010-8460-6460
 #### &emsp; ▪ E-mail 👉 dlsco1230@gmail.com
 #### &emsp; ▪ Blog 👉 [Link](https://blog.naver.com/dlsco123)
+#### &emsp; ▪ YouTube 👉 [Link](https://blog.naver.com/dlsco123](https://www.youtube.com/@user-md8my1cx6q)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
