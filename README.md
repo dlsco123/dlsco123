@@ -39,8 +39,8 @@
 ## 📞 Contact
 
 #### &emsp;▪ Phone Number 👉 +82) 010-8460-6460
-#### &emsp; ▪ E-mail 👉 dlsco1230@gmail.com
-#### &emsp; ▪ Blog 👉 [Link](https://blog.naver.com/dlsco123)
-#### &emsp; ▪ YouTube 👉 [Link](https://www.youtube.com/@user-md8my1cx6q)
+#### &emsp; ▪ E-mail 👉 inchae@infmon.im
+#### &emsp; ▪ Website 👉 [Link](https://infmon.im)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
