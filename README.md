@@ -4,8 +4,8 @@
 ## 👋 Introduction 
  
 #### &emsp; Hi, I'm InChae-Na!<br>
-<!-- #### &emsp; I'm looking for a job as an Developer! -->
-#### &emsp; I'm looking for a job as a Java Backend Developer and an AI developer as well :D
+<!-- #### &emsp; I'm the ceo of Infinite Monkeys -->
+#### &emsp; take it easy to contact :D
 <!-- 
 #### &emsp; [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlsco123)](https://github.com/anuraghazra/github-readme-stats) -->
 
