@@ -5,7 +5,7 @@
  
 #### &emsp; Hi, I'm InChae-Na!<br>
 <!-- #### &emsp; I'm the ceo of Infinite Monkeys -->
-#### &emsp; take it easy to contact :D
+#### &emsp; Feel free to contact me :D
 <!-- 
 #### &emsp; [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlsco123)](https://github.com/anuraghazra/github-readme-stats) -->
 
